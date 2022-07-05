@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Noysi</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>ShareMedia</string>
+				<string>YOUR-GOOGLE-SERVICE-REVERSE-DOMAIN</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>CFBundleURLName</key>
+			<string>YOUR-APP-LINK</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>YOUR-APP-LINK</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<true/>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+		<string>sms</string>
+		<string>tel</string>
+		<string>mailto</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsLocalNetworking</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Enable audio library access in order to select it and upload it.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Enable calendar access in order to schedule your upcoming events.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Enable camera access to take photos and videos and save the data directly in the app. The camera can also be used for update your avatar.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Noysi needs access to your contacts.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Enable Face ID to allow a login via Face ID or Fingerprint.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Noysi needs access to your location.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Noysi needs access to your location.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Noysi needs access to microphone in order to record audio and upload it.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Enable motion to access your phones motions.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Enable media library access to upload available photos and videos and save them in Noysi. This will make the documentation easier in the app.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Speech data from this app will be sent to Apple to process your requests. This will help Apple improve its speech recognition technology.</string>
+    <key>RTCAppGroupIdentifier</key>
+    <string>YOUR-APP-GROUP</string>
+    <key>RTCScreenSharingExtension</key>
+    <string>com.noysi.BroadcastExtension</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>remote-notification</string>
+		<string>voip</string>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Noysi needs to access your audio files</string>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+</dict>
+</plist>

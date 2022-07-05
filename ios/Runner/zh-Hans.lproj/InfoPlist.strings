@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Enrique Alberto Pérez Anchia on 12/15/20.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+"NSAppleMusicUsageDescription" = "启用音频库访问以便选择并上传。";
+"NSCalendarsUsageDescription" = "启用日历访问权限以安排即将举行的活动。";
+"NSCameraUsageDescription" = "启用相机访问权限以拍摄照片和视频并将数据直接保存在应用程序中。相机也可以用于更新您的头像。";
+"NSContactsUsageDescription" = "Noysi需要访问您的联系人。";
+"NSLocationAlwaysUsageDescription" = "Noysi需要访问您的位置。";
+"NSLocationWhenInUseUsageDescription" = "Noysi需要访问您的位置。";
+"NSMicrophoneUsageDescription" = "Noysi需要访问麦克风才能录制音频并上传。";
+"NSMotionUsageDescription" = "启用动作以访问手机动作。";
+"NSPhotoLibraryUsageDescription" = "允许媒体库访问权限以上传可用的照片和视频并将其保存在Noysi中。这将使文档在应用程序中更容易。";
+"NSSpeechRecognitionUsageDescription" = "该应用程序的语音数据将发送到Apple以处理您的请求。这将有助于苹果改善其语音识别技术。";
+"NSFaceIDUsageDescription" = "启用Face ID以允许通过Face ID或指纹登录。";
