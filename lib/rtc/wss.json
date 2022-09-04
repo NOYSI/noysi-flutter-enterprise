@@ -1,0 +1,64 @@
+//{type: channel_marked, uid: noysi:5ebae5e, tid: ts2ko23bi, cid: ii19ij9be, ts: 1596036650646}
+//{type: presence_change, uid: noysi:ca92df8, tid: , presence: online}
+//{type: channel_opened, tid: toor3gtsb, cid: io071eqn5}
+//{type: channel_created, uid: noysi:8c7a378, tid: toor3gtsb, cid: c8edkfpus, channel: {id: c8edkfpus, name: test1, title: test1, created: 1596551998313, uid: noysi:8c7a378, general: false, readonly: false, active: true, joined: false, open: false, mark: 1596551998322, unread_count: 0, notifications: {sounds: true, emails: true}, totalMembers: 0}}
+//{type: channel_joined, uid: noysi:8c7a378, tid: toor3gtsb, cid: c8edkfpus}
+//{type: channel_closed, tid: toor3gtsb, cid: c8edkfpus}
+//{type: channel_favorite, uid: noysi:5ebae5e, tid: ts2ko23bi, cid: ibs2dnk87, favorite: true}
+//{type: message, id: 5f3844fd7df5421d91c0462b, from: user, uid: noysi:c273046, ack: b62atk, tid: toor3gtsb, cid: gpc16l77p, mid: null, text: another one, html: another one, ts: 1597523197729, comments: 0, announcements: [], mentions: [], links: [], translate: false, args: {}, reactions: {}, threadmeta: {root: false, pmid: 5f3841497df5421d91c04603, showonchannel: false}}
+//{type: thread_followed, tid: toor3gtsb, cid: gpc16l77p, uid: noysi:c273046, pmid: 5f39c0a27df5421d91c073ee}
+//{type: thread_unfollowed, tid: toor3gtsb, cid: gpc16l77p, uid: noysi:c273046, pmid: 5f3a955a7df5421d91c07e4c}
+//{type: message_deleted, tid: toor3gtsb, cid: gpc16l77p, id: 5f3a9ec97df5421d91c07eb3, pmid: 5f3a99f17df5421d91c07e7e}
+//{type: channel_created, uid: noysi:8c7a378, tid: toor3gtsb, cid: g96ih52dh, channel: {id: g96ih52dh, name: dev1, title: dev1, created: 1598354733415, uid: noysi:8c7a378, active: true, joined: true, open: true, mark: 1598354733460, favorite: false, notifications: {sounds: true, emails: true}, unread_count: 0, unread_msg: [], totalMembers: 2}}
+//I/flutter ( 9952): {type: label:created, payload: {id: 5f49f4aaebb45f02acdfe8a9, tid: ts2ko23bi, cid: ibs2dnk87}}
+//{type: member_photo_updated, uid: noysi:8c7a378, tid: toor3gtsb, photo: https://dev.noysi.com/files/toor3gtsb/members/23e9020bfcb74832ab31399d53e81267}
+{
+  type: message,
+  id: 5f2b16b57df54201ce7d4228,
+  from: user,
+  uid: noysi
+  :
+  c273046,
+  ack: 7dkcj,
+  tid: toor3gtsb,
+  cid: io071eqn5,
+  mid: null,
+  text: new thread,
+  html: new thread,
+  ts: 1596659381303,
+  comments: 0,
+  announcements: [],
+  mentions: [],
+  links: [],
+  translate: false,
+  args: {},
+  reactions: {},
+  threadmeta: {
+    root: false,
+    pmid: 5f1850f27eca3b4bf3058537,
+    showonchannel: false
+  }
+}
+
+{
+  type: message,
+  id: 5f2b17087df54201ce7d422c,
+  from: user,
+  uid: noysi:c273046,
+  ack: 6vl5fw,
+  tid: toor3gtsb,
+  cid: io071eqn5,
+  mid: null,
+  text: new
+  messages,
+  html: new
+  messages,
+  ts: 1596659464093,
+  comments: 0,
+  announcements: [],
+  mentions: [],
+  links: [],
+  translate: false,
+  args: {},
+  reactions: {}
+}

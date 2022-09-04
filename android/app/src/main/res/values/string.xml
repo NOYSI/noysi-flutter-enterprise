@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_notification_channel_id" translatable="false">fcm_channel_id</string>
+    <string name="default_notification_channel_name">Noysi(Default)</string>
+    <string name="default_notification_channel_desc">Notification channel with default system sound.</string>
+    <string name="default_notification_channel_id_without_sound" translatable="false">fcm_channel_id_without_sound</string>
+    <string name="default_notification_channel_name_without_sound">Noysi Muted</string>
+    <string name="default_notification_channel_desc_without_sound">Notification channel for muted channels or groups.</string>
+</resources>

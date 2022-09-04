@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>development</string>
+	<key>com.apple.developer.applesignin</key>
+	<array>
+		<string>Default</string>
+	</array>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:meet.noysi.com</string>
+		<string>applinks:dev-meet.noysi.com</string>
+		<string>applinks:pre-meet.noysi.com</string>
+		<string>applinks:noysi.com</string>
+		<string>applinks:dev.noysi.com</string>
+		<string>applinks:pre.noysi.com</string>
+	</array>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>YOUR-APP-GROUP</string>
+	</array>
+</dict>
+</plist>

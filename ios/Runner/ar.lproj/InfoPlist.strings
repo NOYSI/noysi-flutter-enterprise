@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Enrique Alberto Pérez Anchia on 12/15/20.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+"NSAppleMusicUsageDescription" = "قم بتمكين الوصول إلى مكتبة الصوت من أجل تحديدها وتحميلها.";
+"NSCalendarsUsageDescription" = "قم بتمكين الوصول إلى التقويم لجدولة الأحداث القادمة الخاصة بك.";
+"NSCameraUsageDescription" = "قم بتمكين الوصول إلى الكاميرا لالتقاط الصور ومقاطع الفيديو وحفظ البيانات مباشرة في التطبيق. يمكن أيضًا استخدام الكاميرا لتحديث الصورة الرمزية الخاصة بك.";
+"NSContactsUsageDescription" = "Noysi يحتاج الوصول إلى جهات الاتصال الخاصة بك.";
+"NSLocationAlwaysUsageDescription" = "Noysi يحتاج الوصول إلى موقعك.";
+"NSLocationWhenInUseUsageDescription" = "Noysi يحتاج الوصول إلى موقعك.";
+"NSMicrophoneUsageDescription" = "يحتاج Noysi إلى الوصول إلى الميكروفون لتسجيل الصوت وتحميله.";
+"NSMotionUsageDescription" = "تمكين الحركة للوصول إلى حركات الهواتف الخاصة بك.";
+"NSPhotoLibraryUsageDescription" = "قم بتمكين الوصول إلى مكتبة الوسائط لتحميل الصور ومقاطع الفيديو المتوفرة وحفظها في Noysi. هذا سيجعل التوثيق أسهل في التطبيق.";
+"NSSpeechRecognitionUsageDescription" = "سيتم إرسال بيانات الكلام من هذا التطبيق إلى Apple لمعالجة طلباتك. سيساعد ذلك Apple على تحسين تقنية التعرف على الكلام.";
+"NSFaceIDUsageDescription" = "قم بتمكين Face ID للسماح بتسجيل الدخول عبر Face ID أو Fingerprint.";

@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Enrique Alberto Pérez Anchia on 12/15/20.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+"NSAppleMusicUsageDescription" = "Gaitu audio liburutegiko sarbidea hautatu eta kargatzeko.";
+"NSCalendarsUsageDescription" = "Gaitu egutegira sarbidea datozen gertaerak antolatzeko.";
+"NSCameraUsageDescription" = "Gaitu kameraren sarbidea argazkiak eta bideoak ateratzeko eta datuak zuzenean aplikazioan gordetzeko. Kamera zure avatarra eguneratzeko ere erabil daiteke.";
+"NSContactsUsageDescription" = "Noysik zure kontaktuetarako sarbidea behar du.";
+"NSLocationAlwaysUsageDescription" = "Noysik zure kokapenera sarbidea behar du.";
+"NSLocationWhenInUseUsageDescription" = "Noysik zure kokapenera sarbidea behar du.";
+"NSMicrophoneUsageDescription" = "Noysik mikrofonorako sarbidea behar du audioa grabatu eta kargatzeko.";
+"NSMotionUsageDescription" = "Gaitu mugimendua telefonoen mugimenduetara sartzeko.";
+"NSPhotoLibraryUsageDescription" = "Gaitu mediatekarako sarbidea eskuragarri dauden argazkiak eta bideoak kargatzeko eta Noysin gordetzeko. Horrek dokumentazioa aplikazioan erraztuko du.";
+"NSSpeechRecognitionUsageDescription" = "Aplikazio honetako hizkera datuak Apple-ri bidaliko zaizkizu zure eskaerak prozesatzeko. Horrek Apple-k ahotsa ezagutzeko teknologia hobetzen lagunduko dio.";
+"NSFaceIDUsageDescription" = "Gaitu Face IDa Face ID edo hatz markaren bidez saioa hastea baimentzeko.";

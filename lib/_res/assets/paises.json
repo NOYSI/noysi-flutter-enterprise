@@ -1,0 +1,1682 @@
+[
+  {
+    "name" : "AFGANISTÁN",
+    "numcode" : 4,
+    "iso" : "AF",
+    "iso3" : "AFG",
+    "printable_name" : "Afganistán"
+  },
+  {
+    "name" : "ALBANIA",
+    "numcode" : 8,
+    "iso" : "AL",
+    "iso3" : "ALB",
+    "printable_name" : "Albania"
+  },
+  {
+    "name" : "ALEMANIA",
+    "numcode" : 276,
+    "iso" : "DE",
+    "iso3" : "DEU",
+    "printable_name" : "Alemania"
+  },
+  {
+    "name" : "ANDORRA",
+    "numcode" : 20,
+    "iso" : "AD",
+    "iso3" : "AND",
+    "printable_name" : "Andorra"
+  },
+  {
+    "name" : "ANGOLA",
+    "numcode" : 24,
+    "iso" : "AO",
+    "iso3" : "AGO",
+    "printable_name" : "Angola"
+  },
+  {
+    "name" : "ANGUILLA",
+    "numcode" : 660,
+    "iso" : "AI",
+    "iso3" : "AIA",
+    "printable_name" : "Anguilla"
+  },
+  {
+    "name" : "ANTÁRTIDA",
+    "numcode" : 10,
+    "iso" : "AQ",
+    "iso3" : "ATA",
+    "printable_name" : "Antártida"
+  },
+  {
+    "name" : "ANTIGUA Y BARBUDA",
+    "numcode" : 28,
+    "iso" : "AG",
+    "iso3" : "ATG",
+    "printable_name" : "Antigua y Barbuda"
+  },
+  {
+    "name" : "ANTILLAS HOLANDESAS",
+    "numcode" : 530,
+    "iso" : "AN",
+    "iso3" : "ANT",
+    "printable_name" : "Antillas Holandesas"
+  },
+  {
+    "name" : "ARABIA SAUDÍ",
+    "numcode" : 682,
+    "iso" : "SA",
+    "iso3" : "SAU",
+    "printable_name" : "Arabia Saudí"
+  },
+  {
+    "name" : "ARGELIA",
+    "numcode" : 12,
+    "iso" : "DZ",
+    "iso3" : "DZA",
+    "printable_name" : "Argelia"
+  },
+  {
+    "name" : "ARGENTINA",
+    "numcode" : 32,
+    "iso" : "AR",
+    "iso3" : "ARG",
+    "printable_name" : "Argentina"
+  },
+  {
+    "name" : "ARMENIA",
+    "numcode" : 51,
+    "iso" : "AM",
+    "iso3" : "ARM",
+    "printable_name" : "Armenia"
+  },
+  {
+    "name" : "ARUBA",
+    "numcode" : 533,
+    "iso" : "AW",
+    "iso3" : "ABW",
+    "printable_name" : "Aruba"
+  },
+  {
+    "name" : "ARY MACEDONIA",
+    "numcode" : 807,
+    "iso" : "MK",
+    "iso3" : "MKD",
+    "printable_name" : "ARY Macedonia"
+  },
+  {
+    "name" : "AUSTRALIA",
+    "numcode" : 36,
+    "iso" : "AU",
+    "iso3" : "AUS",
+    "printable_name" : "Australia"
+  },
+  {
+    "name" : "AUSTRIA",
+    "numcode" : 40,
+    "iso" : "AT",
+    "iso3" : "AUT",
+    "printable_name" : "Austria"
+  },
+  {
+    "name" : "AZERBAIYÁN",
+    "numcode" : 31,
+    "iso" : "AZ",
+    "iso3" : "AZE",
+    "printable_name" : "Azerbaiyán"
+  },
+  {
+    "name" : "BAHAMAS",
+    "numcode" : 44,
+    "iso" : "BS",
+    "iso3" : "BHS",
+    "printable_name" : "Bahamas"
+  },
+  {
+    "name" : "BAHRÉIN",
+    "numcode" : 48,
+    "iso" : "BH",
+    "iso3" : "BHR",
+    "printable_name" : "Bahréin"
+  },
+  {
+    "name" : "BANGLADESH",
+    "numcode" : 50,
+    "iso" : "BD",
+    "iso3" : "BGD",
+    "printable_name" : "Bangladesh"
+  },
+  {
+    "name" : "BARBADOS",
+    "numcode" : 52,
+    "iso" : "BB",
+    "iso3" : "BRB",
+    "printable_name" : "Barbados"
+  },
+  {
+    "name" : "BÉLGICA",
+    "numcode" : 56,
+    "iso" : "BE",
+    "iso3" : "BEL",
+    "printable_name" : "Bélgica"
+  },
+  {
+    "name" : "BELICE",
+    "numcode" : 84,
+    "iso" : "BZ",
+    "iso3" : "BLZ",
+    "printable_name" : "Belice"
+  },
+  {
+    "name" : "BENIN",
+    "numcode" : 204,
+    "iso" : "BJ",
+    "iso3" : "BEN",
+    "printable_name" : "Benin"
+  },
+  {
+    "name" : "BERMUDAS",
+    "numcode" : 60,
+    "iso" : "BM",
+    "iso3" : "BMU",
+    "printable_name" : "Bermudas"
+  },
+  {
+    "name" : "BHUTÁN",
+    "numcode" : 64,
+    "iso" : "BT",
+    "iso3" : "BTN",
+    "printable_name" : "Bhután"
+  },
+  {
+    "name" : "BIELORRUSIA",
+    "numcode" : 112,
+    "iso" : "BY",
+    "iso3" : "BLR",
+    "printable_name" : "Bielorrusia"
+  },
+  {
+    "name" : "BOLIVIA",
+    "numcode" : 68,
+    "iso" : "BO",
+    "iso3" : "BOL",
+    "printable_name" : "Bolivia"
+  },
+  {
+    "name" : "BOSNIA Y HERZEGOVINA",
+    "numcode" : 70,
+    "iso" : "BA",
+    "iso3" : "BIH",
+    "printable_name" : "Bosnia y Herzegovina"
+  },
+  {
+    "name" : "BOTSUANA",
+    "numcode" : 72,
+    "iso" : "BW",
+    "iso3" : "BWA",
+    "printable_name" : "Botsuana"
+  },
+  {
+    "name" : "BRASIL",
+    "numcode" : 76,
+    "iso" : "BR",
+    "iso3" : "BRA",
+    "printable_name" : "Brasil"
+  },
+  {
+    "name" : "BRUNÉI",
+    "numcode" : 96,
+    "iso" : "BN",
+    "iso3" : "BRN",
+    "printable_name" : "Brunéi"
+  },
+  {
+    "name" : "BULGARIA",
+    "numcode" : 100,
+    "iso" : "BG",
+    "iso3" : "BGR",
+    "printable_name" : "Bulgaria"
+  },
+  {
+    "name" : "BURKINA FASO",
+    "numcode" : 854,
+    "iso" : "BF",
+    "iso3" : "BFA",
+    "printable_name" : "Burkina Faso"
+  },
+  {
+    "name" : "BURUNDI",
+    "numcode" : 108,
+    "iso" : "BI",
+    "iso3" : "BDI",
+    "printable_name" : "Burundi"
+  },
+  {
+    "name" : "CABO VERDE",
+    "numcode" : 132,
+    "iso" : "CV",
+    "iso3" : "CPV",
+    "printable_name" : "Cabo Verde"
+  },
+  {
+    "name" : "CAMBOYA",
+    "numcode" : 116,
+    "iso" : "KH",
+    "iso3" : "KHM",
+    "printable_name" : "Camboya"
+  },
+  {
+    "name" : "CAMERÚN",
+    "numcode" : 120,
+    "iso" : "CM",
+    "iso3" : "CMR",
+    "printable_name" : "Camerún"
+  },
+  {
+    "name" : "CANADÁ",
+    "numcode" : 124,
+    "iso" : "CA",
+    "iso3" : "CAN",
+    "printable_name" : "Canadá"
+  },
+  {
+    "name" : "CHAD",
+    "numcode" : 148,
+    "iso" : "TD",
+    "iso3" : "TCD",
+    "printable_name" : "Chad"
+  },
+  {
+    "name" : "CHILE",
+    "numcode" : 152,
+    "iso" : "CL",
+    "iso3" : "CHL",
+    "printable_name" : "Chile"
+  },
+  {
+    "name" : "CHINA",
+    "numcode" : 156,
+    "iso" : "CN",
+    "iso3" : "CHN",
+    "printable_name" : "China"
+  },
+  {
+    "name" : "CHIPRE",
+    "numcode" : 196,
+    "iso" : "CY",
+    "iso3" : "CYP",
+    "printable_name" : "Chipre"
+  },
+  {
+    "name" : "CIUDAD DEL VATICANO",
+    "numcode" : 336,
+    "iso" : "VA",
+    "iso3" : "VAT",
+    "printable_name" : "Ciudad del Vaticano"
+  },
+  {
+    "name" : "COLOMBIA",
+    "numcode" : 170,
+    "iso" : "CO",
+    "iso3" : "COL",
+    "printable_name" : "Colombia"
+  },
+  {
+    "name" : "COMORAS",
+    "numcode" : 174,
+    "iso" : "KM",
+    "iso3" : "COM",
+    "printable_name" : "Comoras"
+  },
+  {
+    "name" : "CONGO",
+    "numcode" : 178,
+    "iso" : "CG",
+    "iso3" : "COG",
+    "printable_name" : "Congo"
+  },
+  {
+    "name" : "COREA DEL NORTE",
+    "numcode" : 408,
+    "iso" : "KP",
+    "iso3" : "PRK",
+    "printable_name" : "Corea del Norte"
+  },
+  {
+    "name" : "COREA DEL SUR",
+    "numcode" : 410,
+    "iso" : "KR",
+    "iso3" : "KOR",
+    "printable_name" : "Corea del Sur"
+  },
+  {
+    "name" : "COSTA DE MARFIL",
+    "numcode" : 384,
+    "iso" : "CI",
+    "iso3" : "CIV",
+    "printable_name" : "Costa de Marfil"
+  },
+  {
+    "name" : "COSTA RICA",
+    "numcode" : 188,
+    "iso" : "CR",
+    "iso3" : "CRI",
+    "printable_name" : "Costa Rica"
+  },
+  {
+    "name" : "CROACIA",
+    "numcode" : 191,
+    "iso" : "HR",
+    "iso3" : "HRV",
+    "printable_name" : "Croacia"
+  },
+  {
+    "name" : "CUBA",
+    "numcode" : 192,
+    "iso" : "CU",
+    "iso3" : "CUB",
+    "printable_name" : "Cuba"
+  },
+  {
+    "name" : "DINAMARCA",
+    "numcode" : 208,
+    "iso" : "DK",
+    "iso3" : "DNK",
+    "printable_name" : "Dinamarca"
+  },
+  {
+    "name" : "DOMINICA",
+    "numcode" : 212,
+    "iso" : "DM",
+    "iso3" : "DMA",
+    "printable_name" : "Dominica"
+  },
+  {
+    "name" : "ECUADOR",
+    "numcode" : 218,
+    "iso" : "EC",
+    "iso3" : "ECU",
+    "printable_name" : "Ecuador"
+  },
+  {
+    "name" : "EGIPTO",
+    "numcode" : 818,
+    "iso" : "EG",
+    "iso3" : "EGY",
+    "printable_name" : "Egipto"
+  },
+  {
+    "name" : "EL SALVADOR",
+    "numcode" : 222,
+    "iso" : "SV",
+    "iso3" : "SLV",
+    "printable_name" : "El Salvador"
+  },
+  {
+    "name" : "EMIRATOS ÁRABES UNIDOS",
+    "numcode" : 784,
+    "iso" : "AE",
+    "iso3" : "ARE",
+    "printable_name" : "Emiratos Árabes Unidos"
+  },
+  {
+    "name" : "ERITREA",
+    "numcode" : 232,
+    "iso" : "ER",
+    "iso3" : "ERI",
+    "printable_name" : "Eritrea"
+  },
+  {
+    "name" : "ESLOVAQUIA",
+    "numcode" : 703,
+    "iso" : "SK",
+    "iso3" : "SVK",
+    "printable_name" : "Eslovaquia"
+  },
+  {
+    "name" : "ESLOVENIA",
+    "numcode" : 705,
+    "iso" : "SI",
+    "iso3" : "SVN",
+    "printable_name" : "Eslovenia"
+  },
+  {
+    "name" : "ESPAÑA",
+    "numcode" : 724,
+    "iso" : "ES",
+    "iso3" : "ESP",
+    "printable_name" : "España"
+  },
+  {
+    "name" : "ESTADOS UNIDOS",
+    "numcode" : 840,
+    "iso" : "US",
+    "iso3" : "USA",
+    "printable_name" : "Estados Unidos"
+  },
+  {
+    "name" : "ESTONIA",
+    "numcode" : 233,
+    "iso" : "EE",
+    "iso3" : "EST",
+    "printable_name" : "Estonia"
+  },
+  {
+    "name" : "ETIOPÍA",
+    "numcode" : 231,
+    "iso" : "ET",
+    "iso3" : "ETH",
+    "printable_name" : "Etiopía"
+  },
+  {
+    "name" : "FILIPINAS",
+    "numcode" : 608,
+    "iso" : "PH",
+    "iso3" : "PHL",
+    "printable_name" : "Filipinas"
+  },
+  {
+    "name" : "FINLANDIA",
+    "numcode" : 246,
+    "iso" : "FI",
+    "iso3" : "FIN",
+    "printable_name" : "Finlandia"
+  },
+  {
+    "name" : "FIYI",
+    "numcode" : 242,
+    "iso" : "FJ",
+    "iso3" : "FJI",
+    "printable_name" : "Fiyi"
+  },
+  {
+    "name" : "FRANCIA",
+    "numcode" : 250,
+    "iso" : "FR",
+    "iso3" : "FRA",
+    "printable_name" : "Francia"
+  },
+  {
+    "name" : "GABÓN",
+    "numcode" : 266,
+    "iso" : "GA",
+    "iso3" : "GAB",
+    "printable_name" : "Gabón"
+  },
+  {
+    "name" : "GAMBIA",
+    "numcode" : 270,
+    "iso" : "GM",
+    "iso3" : "GMB",
+    "printable_name" : "Gambia"
+  },
+  {
+    "name" : "GEORGIA",
+    "numcode" : 268,
+    "iso" : "GE",
+    "iso3" : "GEO",
+    "printable_name" : "Georgia"
+  },
+  {
+    "name" : "GHANA",
+    "numcode" : 288,
+    "iso" : "GH",
+    "iso3" : "GHA",
+    "printable_name" : "Ghana"
+  },
+  {
+    "name" : "GIBRALTAR",
+    "numcode" : 292,
+    "iso" : "GI",
+    "iso3" : "GIB",
+    "printable_name" : "Gibraltar"
+  },
+  {
+    "name" : "GRANADA",
+    "numcode" : 308,
+    "iso" : "GD",
+    "iso3" : "GRD",
+    "printable_name" : "Granada"
+  },
+  {
+    "name" : "GRECIA",
+    "numcode" : 300,
+    "iso" : "GR",
+    "iso3" : "GRC",
+    "printable_name" : "Grecia"
+  },
+  {
+    "name" : "GROENLANDIA",
+    "numcode" : 304,
+    "iso" : "GL",
+    "iso3" : "GRL",
+    "printable_name" : "Groenlandia"
+  },
+  {
+    "name" : "GUADALUPE",
+    "numcode" : 312,
+    "iso" : "GP",
+    "iso3" : "GLP",
+    "printable_name" : "Guadalupe"
+  },
+  {
+    "name" : "GUAM",
+    "numcode" : 316,
+    "iso" : "GU",
+    "iso3" : "GUM",
+    "printable_name" : "Guam"
+  },
+  {
+    "name" : "GUATEMALA",
+    "numcode" : 320,
+    "iso" : "GT",
+    "iso3" : "GTM",
+    "printable_name" : "Guatemala"
+  },
+  {
+    "name" : "GUAYANA FRANCESA",
+    "numcode" : 254,
+    "iso" : "GF",
+    "iso3" : "GUF",
+    "printable_name" : "Guayana Francesa"
+  },
+  {
+    "name" : "GUINEA",
+    "numcode" : 324,
+    "iso" : "GN",
+    "iso3" : "GIN",
+    "printable_name" : "Guinea"
+  },
+  {
+    "name" : "GUINEA ECUATORIAL",
+    "numcode" : 226,
+    "iso" : "GQ",
+    "iso3" : "GNQ",
+    "printable_name" : "Guinea Ecuatorial"
+  },
+  {
+    "name" : "GUINEA-BISSAU",
+    "numcode" : 624,
+    "iso" : "GW",
+    "iso3" : "GNB",
+    "printable_name" : "Guinea-Bissau"
+  },
+  {
+    "name" : "GUYANA",
+    "numcode" : 328,
+    "iso" : "GY",
+    "iso3" : "GUY",
+    "printable_name" : "Guyana"
+  },
+  {
+    "name" : "HAITÍ",
+    "numcode" : 332,
+    "iso" : "HT",
+    "iso3" : "HTI",
+    "printable_name" : "Haití"
+  },
+  {
+    "name" : "HONDURAS",
+    "numcode" : 340,
+    "iso" : "HN",
+    "iso3" : "HND",
+    "printable_name" : "Honduras"
+  },
+  {
+    "name" : "HONG KONG",
+    "numcode" : 344,
+    "iso" : "HK",
+    "iso3" : "HKG",
+    "printable_name" : "Hong Kong"
+  },
+  {
+    "name" : "HUNGRÍA",
+    "numcode" : 348,
+    "iso" : "HU",
+    "iso3" : "HUN",
+    "printable_name" : "Hungría"
+  },
+  {
+    "name" : "INDIA",
+    "numcode" : 356,
+    "iso" : "IN",
+    "iso3" : "IND",
+    "printable_name" : "India"
+  },
+  {
+    "name" : "INDONESIA",
+    "numcode" : 360,
+    "iso" : "ID",
+    "iso3" : "IDN",
+    "printable_name" : "Indonesia"
+  },
+  {
+    "name" : "IRÁN",
+    "numcode" : 364,
+    "iso" : "IR",
+    "iso3" : "IRN",
+    "printable_name" : "Irán"
+  },
+  {
+    "name" : "IRAQ",
+    "numcode" : 368,
+    "iso" : "IQ",
+    "iso3" : "IRQ",
+    "printable_name" : "Iraq"
+  },
+  {
+    "name" : "IRLANDA",
+    "numcode" : 372,
+    "iso" : "IE",
+    "iso3" : "IRL",
+    "printable_name" : "Irlanda"
+  },
+  {
+    "name" : "ISLA BOUVET",
+    "numcode" : 74,
+    "iso" : "BV",
+    "iso3" : "BVT",
+    "printable_name" : "Isla Bouvet"
+  },
+  {
+    "name" : "ISLA DE NAVIDAD",
+    "numcode" : 162,
+    "iso" : "CX",
+    "iso3" : "CXR",
+    "printable_name" : "Isla de Navidad"
+  },
+  {
+    "name" : "ISLA NORFOLK",
+    "numcode" : 574,
+    "iso" : "NF",
+    "iso3" : "NFK",
+    "printable_name" : "Isla Norfolk"
+  },
+  {
+    "name" : "ISLANDIA",
+    "numcode" : 352,
+    "iso" : "IS",
+    "iso3" : "ISL",
+    "printable_name" : "Islandia"
+  },
+  {
+    "name" : "ISLAS CAIMÁN",
+    "numcode" : 136,
+    "iso" : "KY",
+    "iso3" : "CYM",
+    "printable_name" : "Islas Caimán"
+  },
+  {
+    "name" : "ISLAS COCOS",
+    "numcode" : 166,
+    "iso" : "CC",
+    "iso3" : "CCK",
+    "printable_name" : "Islas Cocos"
+  },
+  {
+    "name" : "ISLAS COOK",
+    "numcode" : 184,
+    "iso" : "CK",
+    "iso3" : "COK",
+    "printable_name" : "Islas Cook"
+  },
+  {
+    "name" : "ISLAS FEROE",
+    "numcode" : 234,
+    "iso" : "FO",
+    "iso3" : "FRO",
+    "printable_name" : "Islas Feroe"
+  },
+  {
+    "name" : "ISLAS GEORGIAS DEL SUR Y SANDWICH DEL SUR",
+    "numcode" : 239,
+    "iso" : "GS",
+    "iso3" : "SGS",
+    "printable_name" : "Islas Georgias del Sur y Sandwich del Sur"
+  },
+  {
+    "name" : "ISLAS GLAND",
+    "numcode" : 248,
+    "iso" : "AX",
+    "iso3" : "ALA",
+    "printable_name" : "Islas Gland"
+  },
+  {
+    "name" : "ISLAS HEARD Y MCDONALD",
+    "numcode" : 334,
+    "iso" : "HM",
+    "iso3" : "HMD",
+    "printable_name" : "Islas Heard y McDonald"
+  },
+  {
+    "name" : "ISLAS MALVINAS",
+    "numcode" : 238,
+    "iso" : "FK",
+    "iso3" : "FLK",
+    "printable_name" : "Islas Malvinas"
+  },
+  {
+    "name" : "ISLAS MARIANAS DEL NORTE",
+    "numcode" : 580,
+    "iso" : "MP",
+    "iso3" : "MNP",
+    "printable_name" : "Islas Marianas del Norte"
+  },
+  {
+    "name" : "ISLAS MARSHALL",
+    "numcode" : 584,
+    "iso" : "MH",
+    "iso3" : "MHL",
+    "printable_name" : "Islas Marshall"
+  },
+  {
+    "name" : "ISLAS PITCAIRN",
+    "numcode" : 612,
+    "iso" : "PN",
+    "iso3" : "PCN",
+    "printable_name" : "Islas Pitcairn"
+  },
+  {
+    "name" : "ISLAS SALOMÓN",
+    "numcode" : 90,
+    "iso" : "SB",
+    "iso3" : "SLB",
+    "printable_name" : "Islas Salomón"
+  },
+  {
+    "name" : "ISLAS TURCAS Y CAICOS",
+    "numcode" : 796,
+    "iso" : "TC",
+    "iso3" : "TCA",
+    "printable_name" : "Islas Turcas y Caicos"
+  },
+  {
+    "name" : "ISLAS ULTRAMARINAS DE ESTADOS UNIDOS",
+    "numcode" : 581,
+    "iso" : "UM",
+    "iso3" : "UMI",
+    "printable_name" : "Islas ultramarinas de Estados Unidos"
+  },
+  {
+    "name" : "ISLAS VÍRGENES BRITÁNICAS",
+    "numcode" : 92,
+    "iso" : "VG",
+    "iso3" : "VGB",
+    "printable_name" : "Islas Vírgenes Británicas"
+  },
+  {
+    "name" : "ISLAS VÍRGENES DE LOS ESTADOS UNIDOS",
+    "numcode" : 850,
+    "iso" : "VI",
+    "iso3" : "VIR",
+    "printable_name" : "Islas Vírgenes de los Estados Unidos"
+  },
+  {
+    "name" : "ISRAEL",
+    "numcode" : 376,
+    "iso" : "IL",
+    "iso3" : "ISR",
+    "printable_name" : "Israel"
+  },
+  {
+    "name" : "ITALIA",
+    "numcode" : 380,
+    "iso" : "IT",
+    "iso3" : "ITA",
+    "printable_name" : "Italia"
+  },
+  {
+    "name" : "JAMAICA",
+    "numcode" : 388,
+    "iso" : "JM",
+    "iso3" : "JAM",
+    "printable_name" : "Jamaica"
+  },
+  {
+    "name" : "JAPÓN",
+    "numcode" : 392,
+    "iso" : "JP",
+    "iso3" : "JPN",
+    "printable_name" : "Japón"
+  },
+  {
+    "name" : "JORDANIA",
+    "numcode" : 400,
+    "iso" : "JO",
+    "iso3" : "JOR",
+    "printable_name" : "Jordania"
+  },
+  {
+    "name" : "KAZAJSTÁN",
+    "numcode" : 398,
+    "iso" : "KZ",
+    "iso3" : "KAZ",
+    "printable_name" : "Kazajstán"
+  },
+  {
+    "name" : "KENIA",
+    "numcode" : 404,
+    "iso" : "KE",
+    "iso3" : "KEN",
+    "printable_name" : "Kenia"
+  },
+  {
+    "name" : "KIRGUISTÁN",
+    "numcode" : 417,
+    "iso" : "KG",
+    "iso3" : "KGZ",
+    "printable_name" : "Kirguistán"
+  },
+  {
+    "name" : "KIRIBATI",
+    "numcode" : 296,
+    "iso" : "KI",
+    "iso3" : "KIR",
+    "printable_name" : "Kiribati"
+  },
+  {
+    "name" : "KUWAIT",
+    "numcode" : 414,
+    "iso" : "KW",
+    "iso3" : "KWT",
+    "printable_name" : "Kuwait"
+  },
+  {
+    "name" : "LAOS",
+    "numcode" : 418,
+    "iso" : "LA",
+    "iso3" : "LAO",
+    "printable_name" : "Laos"
+  },
+  {
+    "name" : "LESOTHO",
+    "numcode" : 426,
+    "iso" : "LS",
+    "iso3" : "LSO",
+    "printable_name" : "Lesotho"
+  },
+  {
+    "name" : "LETONIA",
+    "numcode" : 428,
+    "iso" : "LV",
+    "iso3" : "LVA",
+    "printable_name" : "Letonia"
+  },
+  {
+    "name" : "LÍBANO",
+    "numcode" : 422,
+    "iso" : "LB",
+    "iso3" : "LBN",
+    "printable_name" : "Líbano"
+  },
+  {
+    "name" : "LIBERIA",
+    "numcode" : 430,
+    "iso" : "LR",
+    "iso3" : "LBR",
+    "printable_name" : "Liberia"
+  },
+  {
+    "name" : "LIBIA",
+    "numcode" : 434,
+    "iso" : "LY",
+    "iso3" : "LBY",
+    "printable_name" : "Libia"
+  },
+  {
+    "name" : "LIECHTENSTEIN",
+    "numcode" : 438,
+    "iso" : "LI",
+    "iso3" : "LIE",
+    "printable_name" : "Liechtenstein"
+  },
+  {
+    "name" : "LITUANIA",
+    "numcode" : 440,
+    "iso" : "LT",
+    "iso3" : "LTU",
+    "printable_name" : "Lituania"
+  },
+  {
+    "name" : "LUXEMBURGO",
+    "numcode" : 442,
+    "iso" : "LU",
+    "iso3" : "LUX",
+    "printable_name" : "Luxemburgo"
+  },
+  {
+    "name" : "MACAO",
+    "numcode" : 446,
+    "iso" : "MO",
+    "iso3" : "MAC",
+    "printable_name" : "Macao"
+  },
+  {
+    "name" : "MADAGASCAR",
+    "numcode" : 450,
+    "iso" : "MG",
+    "iso3" : "MDG",
+    "printable_name" : "Madagascar"
+  },
+  {
+    "name" : "MALASIA",
+    "numcode" : 458,
+    "iso" : "MY",
+    "iso3" : "MYS",
+    "printable_name" : "Malasia"
+  },
+  {
+    "name" : "MALAWI",
+    "numcode" : 454,
+    "iso" : "MW",
+    "iso3" : "MWI",
+    "printable_name" : "Malawi"
+  },
+  {
+    "name" : "MALDIVAS",
+    "numcode" : 462,
+    "iso" : "MV",
+    "iso3" : "MDV",
+    "printable_name" : "Maldivas"
+  },
+  {
+    "name" : "MALÍ",
+    "numcode" : 466,
+    "iso" : "ML",
+    "iso3" : "MLI",
+    "printable_name" : "Malí"
+  },
+  {
+    "name" : "MALTA",
+    "numcode" : 470,
+    "iso" : "MT",
+    "iso3" : "MLT",
+    "printable_name" : "Malta"
+  },
+  {
+    "name" : "MARRUECOS",
+    "numcode" : 504,
+    "iso" : "MA",
+    "iso3" : "MAR",
+    "printable_name" : "Marruecos"
+  },
+  {
+    "name" : "MARTINICA",
+    "numcode" : 474,
+    "iso" : "MQ",
+    "iso3" : "MTQ",
+    "printable_name" : "Martinica"
+  },
+  {
+    "name" : "MAURICIO",
+    "numcode" : 480,
+    "iso" : "MU",
+    "iso3" : "MUS",
+    "printable_name" : "Mauricio"
+  },
+  {
+    "name" : "MAURITANIA",
+    "numcode" : 478,
+    "iso" : "MR",
+    "iso3" : "MRT",
+    "printable_name" : "Mauritania"
+  },
+  {
+    "name" : "MAYOTTE",
+    "numcode" : 175,
+    "iso" : "YT",
+    "iso3" : "MYT",
+    "printable_name" : "Mayotte"
+  },
+  {
+    "name" : "MÉXICO",
+    "numcode" : 484,
+    "iso" : "MX",
+    "iso3" : "MEX",
+    "printable_name" : "México"
+  },
+  {
+    "name" : "MICRONESIA",
+    "numcode" : 583,
+    "iso" : "FM",
+    "iso3" : "FSM",
+    "printable_name" : "Micronesia"
+  },
+  {
+    "name" : "MOLDAVIA",
+    "numcode" : 498,
+    "iso" : "MD",
+    "iso3" : "MDA",
+    "printable_name" : "Moldavia"
+  },
+  {
+    "name" : "MÓNACO",
+    "numcode" : 492,
+    "iso" : "MC",
+    "iso3" : "MCO",
+    "printable_name" : "Mónaco"
+  },
+  {
+    "name" : "MONGOLIA",
+    "numcode" : 496,
+    "iso" : "MN",
+    "iso3" : "MNG",
+    "printable_name" : "Mongolia"
+  },
+  {
+    "name" : "MONTSERRAT",
+    "numcode" : 500,
+    "iso" : "MS",
+    "iso3" : "MSR",
+    "printable_name" : "Montserrat"
+  },
+  {
+    "name" : "MOZAMBIQUE",
+    "numcode" : 508,
+    "iso" : "MZ",
+    "iso3" : "MOZ",
+    "printable_name" : "Mozambique"
+  },
+  {
+    "name" : "MYANMAR",
+    "numcode" : 104,
+    "iso" : "MM",
+    "iso3" : "MMR",
+    "printable_name" : "Myanmar"
+  },
+  {
+    "name" : "NAMIBIA",
+    "numcode" : 516,
+    "iso" : "NA",
+    "iso3" : "NAM",
+    "printable_name" : "Namibia"
+  },
+  {
+    "name" : "NAURU",
+    "numcode" : 520,
+    "iso" : "NR",
+    "iso3" : "NRU",
+    "printable_name" : "Nauru"
+  },
+  {
+    "name" : "NEPAL",
+    "numcode" : 524,
+    "iso" : "NP",
+    "iso3" : "NPL",
+    "printable_name" : "Nepal"
+  },
+  {
+    "name" : "NICARAGUA",
+    "numcode" : 558,
+    "iso" : "NI",
+    "iso3" : "NIC",
+    "printable_name" : "Nicaragua"
+  },
+  {
+    "name" : "NÍGER",
+    "numcode" : 562,
+    "iso" : "NE",
+    "iso3" : "NER",
+    "printable_name" : "Níger"
+  },
+  {
+    "name" : "NIGERIA",
+    "numcode" : 566,
+    "iso" : "NG",
+    "iso3" : "NGA",
+    "printable_name" : "Nigeria"
+  },
+  {
+    "name" : "NIUE",
+    "numcode" : 570,
+    "iso" : "NU",
+    "iso3" : "NIU",
+    "printable_name" : "Niue"
+  },
+  {
+    "name" : "NORUEGA",
+    "numcode" : 578,
+    "iso" : "NO",
+    "iso3" : "NOR",
+    "printable_name" : "Noruega"
+  },
+  {
+    "name" : "NUEVA CALEDONIA",
+    "numcode" : 540,
+    "iso" : "NC",
+    "iso3" : "NCL",
+    "printable_name" : "Nueva Caledonia"
+  },
+  {
+    "name" : "NUEVA ZELANDA",
+    "numcode" : 554,
+    "iso" : "NZ",
+    "iso3" : "NZL",
+    "printable_name" : "Nueva Zelanda"
+  },
+  {
+    "name" : "OMÁN",
+    "numcode" : 512,
+    "iso" : "OM",
+    "iso3" : "OMN",
+    "printable_name" : "Omán"
+  },
+  {
+    "name" : "PAÍSES BAJOS",
+    "numcode" : 528,
+    "iso" : "NL",
+    "iso3" : "NLD",
+    "printable_name" : "Países Bajos"
+  },
+  {
+    "name" : "PAKISTÁN",
+    "numcode" : 586,
+    "iso" : "PK",
+    "iso3" : "PAK",
+    "printable_name" : "Pakistán"
+  },
+  {
+    "name" : "PALAU",
+    "numcode" : 585,
+    "iso" : "PW",
+    "iso3" : "PLW",
+    "printable_name" : "Palau"
+  },
+  {
+    "name" : "PALESTINA",
+    "numcode" : 275,
+    "iso" : "PS",
+    "iso3" : "PSE",
+    "printable_name" : "Palestina"
+  },
+  {
+    "name" : "PANAMÁ",
+    "numcode" : 591,
+    "iso" : "PA",
+    "iso3" : "PAN",
+    "printable_name" : "Panamá"
+  },
+  {
+    "name" : "PAPÚA NUEVA GUINEA",
+    "numcode" : 598,
+    "iso" : "PG",
+    "iso3" : "PNG",
+    "printable_name" : "Papúa Nueva Guinea"
+  },
+  {
+    "name" : "PARAGUAY",
+    "numcode" : 600,
+    "iso" : "PY",
+    "iso3" : "PRY",
+    "printable_name" : "Paraguay"
+  },
+  {
+    "name" : "PERÚ",
+    "numcode" : 604,
+    "iso" : "PE",
+    "iso3" : "PER",
+    "printable_name" : "Perú"
+  },
+  {
+    "name" : "POLINESIA FRANCESA",
+    "numcode" : 258,
+    "iso" : "PF",
+    "iso3" : "PYF",
+    "printable_name" : "Polinesia Francesa"
+  },
+  {
+    "name" : "POLONIA",
+    "numcode" : 616,
+    "iso" : "PL",
+    "iso3" : "POL",
+    "printable_name" : "Polonia"
+  },
+  {
+    "name" : "PORTUGAL",
+    "numcode" : 620,
+    "iso" : "PT",
+    "iso3" : "PRT",
+    "printable_name" : "Portugal"
+  },
+  {
+    "name" : "PUERTO RICO",
+    "numcode" : 630,
+    "iso" : "PR",
+    "iso3" : "PRI",
+    "printable_name" : "Puerto Rico"
+  },
+  {
+    "name" : "QATAR",
+    "numcode" : 634,
+    "iso" : "QA",
+    "iso3" : "QAT",
+    "printable_name" : "Qatar"
+  },
+  {
+    "name" : "REINO UNIDO",
+    "numcode" : 826,
+    "iso" : "GB",
+    "iso3" : "GBR",
+    "printable_name" : "Reino Unido"
+  },
+  {
+    "name" : "REPÚBLICA CENTROAFRICANA",
+    "numcode" : 140,
+    "iso" : "CF",
+    "iso3" : "CAF",
+    "printable_name" : "República Centroafricana"
+  },
+  {
+    "name" : "REPÚBLICA CHECA",
+    "numcode" : 203,
+    "iso" : "CZ",
+    "iso3" : "CZE",
+    "printable_name" : "República Checa"
+  },
+  {
+    "name" : "REPÚBLICA DEMOCRÁTICA DEL CONGO",
+    "numcode" : 180,
+    "iso" : "CD",
+    "iso3" : "COD",
+    "printable_name" : "República Democrática del Congo"
+  },
+  {
+    "name" : "REPÚBLICA DOMINICANA",
+    "numcode" : 214,
+    "iso" : "DO",
+    "iso3" : "DOM",
+    "printable_name" : "República Dominicana"
+  },
+  {
+    "name" : "REUNIÓN",
+    "numcode" : 638,
+    "iso" : "RE",
+    "iso3" : "REU",
+    "printable_name" : "Reunión"
+  },
+  {
+    "name" : "RUANDA",
+    "numcode" : 646,
+    "iso" : "RW",
+    "iso3" : "RWA",
+    "printable_name" : "Ruanda"
+  },
+  {
+    "name" : "RUMANIA",
+    "numcode" : 642,
+    "iso" : "RO",
+    "iso3" : "ROU",
+    "printable_name" : "Rumania"
+  },
+  {
+    "name" : "RUSIA",
+    "numcode" : 643,
+    "iso" : "RU",
+    "iso3" : "RUS",
+    "printable_name" : "Rusia"
+  },
+  {
+    "name" : "SAHARA OCCIDENTAL",
+    "numcode" : 732,
+    "iso" : "EH",
+    "iso3" : "ESH",
+    "printable_name" : "Sahara Occidental"
+  },
+  {
+    "name" : "SAMOA",
+    "numcode" : 882,
+    "iso" : "WS",
+    "iso3" : "WSM",
+    "printable_name" : "Samoa"
+  },
+  {
+    "name" : "SAMOA AMERICANA",
+    "numcode" : 16,
+    "iso" : "AS",
+    "iso3" : "ASM",
+    "printable_name" : "Samoa Americana"
+  },
+  {
+    "name" : "SAN CRISTÓBAL Y NEVIS",
+    "numcode" : 659,
+    "iso" : "KN",
+    "iso3" : "KNA",
+    "printable_name" : "San Cristóbal y Nevis"
+  },
+  {
+    "name" : "SAN MARINO",
+    "numcode" : 674,
+    "iso" : "SM",
+    "iso3" : "SMR",
+    "printable_name" : "San Marino"
+  },
+  {
+    "name" : "SAN PEDRO Y MIQUELÓN",
+    "numcode" : 666,
+    "iso" : "PM",
+    "iso3" : "SPM",
+    "printable_name" : "San Pedro y Miquelón"
+  },
+  {
+    "name" : "SAN VICENTE Y LAS GRANADINAS",
+    "numcode" : 670,
+    "iso" : "VC",
+    "iso3" : "VCT",
+    "printable_name" : "San Vicente y las Granadinas"
+  },
+  {
+    "name" : "SANTA HELENA",
+    "numcode" : 654,
+    "iso" : "SH",
+    "iso3" : "SHN",
+    "printable_name" : "Santa Helena"
+  },
+  {
+    "name" : "SANTA LUCÍA",
+    "numcode" : 662,
+    "iso" : "LC",
+    "iso3" : "LCA",
+    "printable_name" : "Santa Lucía"
+  },
+  {
+    "name" : "SANTO TOMÉ Y PRÍNCIPE",
+    "numcode" : 678,
+    "iso" : "ST",
+    "iso3" : "STP",
+    "printable_name" : "Santo Tomé y Príncipe"
+  },
+  {
+    "name" : "SENEGAL",
+    "numcode" : 686,
+    "iso" : "SN",
+    "iso3" : "SEN",
+    "printable_name" : "Senegal"
+  },
+  {
+    "name" : "SERBIA Y MONTENEGRO",
+    "numcode" : 891,
+    "iso" : "CS",
+    "iso3" : "SCG",
+    "printable_name" : "Serbia y Montenegro"
+  },
+  {
+    "name" : "SEYCHELLES",
+    "numcode" : 690,
+    "iso" : "SC",
+    "iso3" : "SYC",
+    "printable_name" : "Seychelles"
+  },
+  {
+    "name" : "SIERRA LEONA",
+    "numcode" : 694,
+    "iso" : "SL",
+    "iso3" : "SLE",
+    "printable_name" : "Sierra Leona"
+  },
+  {
+    "name" : "SINGAPUR",
+    "numcode" : 702,
+    "iso" : "SG",
+    "iso3" : "SGP",
+    "printable_name" : "Singapur"
+  },
+  {
+    "name" : "SIRIA",
+    "numcode" : 760,
+    "iso" : "SY",
+    "iso3" : "SYR",
+    "printable_name" : "Siria"
+  },
+  {
+    "name" : "SOMALIA",
+    "numcode" : 706,
+    "iso" : "SO",
+    "iso3" : "SOM",
+    "printable_name" : "Somalia"
+  },
+  {
+    "name" : "SRI LANKA",
+    "numcode" : 144,
+    "iso" : "LK",
+    "iso3" : "LKA",
+    "printable_name" : "Sri Lanka"
+  },
+  {
+    "name" : "SUAZILANDIA",
+    "numcode" : 748,
+    "iso" : "SZ",
+    "iso3" : "SWZ",
+    "printable_name" : "Suazilandia"
+  },
+  {
+    "name" : "SUDÁFRICA",
+    "numcode" : 710,
+    "iso" : "ZA",
+    "iso3" : "ZAF",
+    "printable_name" : "Sudáfrica"
+  },
+  {
+    "name" : "SUDÁN",
+    "numcode" : 736,
+    "iso" : "SD",
+    "iso3" : "SDN",
+    "printable_name" : "Sudán"
+  },
+  {
+    "name" : "SUECIA",
+    "numcode" : 752,
+    "iso" : "SE",
+    "iso3" : "SWE",
+    "printable_name" : "Suecia"
+  },
+  {
+    "name" : "SUIZA",
+    "numcode" : 756,
+    "iso" : "CH",
+    "iso3" : "CHE",
+    "printable_name" : "Suiza"
+  },
+  {
+    "name" : "SURINAM",
+    "numcode" : 740,
+    "iso" : "SR",
+    "iso3" : "SUR",
+    "printable_name" : "Surinam"
+  },
+  {
+    "name" : "SVALBARD Y JAN MAYEN",
+    "numcode" : 744,
+    "iso" : "SJ",
+    "iso3" : "SJM",
+    "printable_name" : "Svalbard y Jan Mayen"
+  },
+  {
+    "name" : "TAILANDIA",
+    "numcode" : 764,
+    "iso" : "TH",
+    "iso3" : "THA",
+    "printable_name" : "Tailandia"
+  },
+  {
+    "name" : "TAIWÁN",
+    "numcode" : 158,
+    "iso" : "TW",
+    "iso3" : "TWN",
+    "printable_name" : "Taiwán"
+  },
+  {
+    "name" : "TANZANIA",
+    "numcode" : 834,
+    "iso" : "TZ",
+    "iso3" : "TZA",
+    "printable_name" : "Tanzania"
+  },
+  {
+    "name" : "TAYIKISTÁN",
+    "numcode" : 762,
+    "iso" : "TJ",
+    "iso3" : "TJK",
+    "printable_name" : "Tayikistán"
+  },
+  {
+    "name" : "TERRITORIO BRITÁNICO DEL OCÉANO ÍNDICO",
+    "numcode" : 86,
+    "iso" : "IO",
+    "iso3" : "IOT",
+    "printable_name" : "Territorio Británico del Océano Índico"
+  },
+  {
+    "name" : "TERRITORIOS AUSTRALES FRANCESES",
+    "numcode" : 260,
+    "iso" : "TF",
+    "iso3" : "ATF",
+    "printable_name" : "Territorios Australes Franceses"
+  },
+  {
+    "name" : "TIMOR ORIENTAL",
+    "numcode" : 626,
+    "iso" : "TL",
+    "iso3" : "TLS",
+    "printable_name" : "Timor Oriental"
+  },
+  {
+    "name" : "TOGO",
+    "numcode" : 768,
+    "iso" : "TG",
+    "iso3" : "TGO",
+    "printable_name" : "Togo"
+  },
+  {
+    "name" : "TOKELAU",
+    "numcode" : 772,
+    "iso" : "TK",
+    "iso3" : "TKL",
+    "printable_name" : "Tokelau"
+  },
+  {
+    "name" : "TONGA",
+    "numcode" : 776,
+    "iso" : "TO",
+    "iso3" : "TON",
+    "printable_name" : "Tonga"
+  },
+  {
+    "name" : "TRINIDAD Y TOBAGO",
+    "numcode" : 780,
+    "iso" : "TT",
+    "iso3" : "TTO",
+    "printable_name" : "Trinidad y Tobago"
+  },
+  {
+    "name" : "TÚNEZ",
+    "numcode" : 788,
+    "iso" : "TN",
+    "iso3" : "TUN",
+    "printable_name" : "Túnez"
+  },
+  {
+    "name" : "TURKMENISTÁN",
+    "numcode" : 795,
+    "iso" : "TM",
+    "iso3" : "TKM",
+    "printable_name" : "Turkmenistán"
+  },
+  {
+    "name" : "TURQUÍA",
+    "numcode" : 792,
+    "iso" : "TR",
+    "iso3" : "TUR",
+    "printable_name" : "Turquía"
+  },
+  {
+    "name" : "TUVALU",
+    "numcode" : 798,
+    "iso" : "TV",
+    "iso3" : "TUV",
+    "printable_name" : "Tuvalu"
+  },
+  {
+    "name" : "UCRANIA",
+    "numcode" : 804,
+    "iso" : "UA",
+    "iso3" : "UKR",
+    "printable_name" : "Ucrania"
+  },
+  {
+    "name" : "UGANDA",
+    "numcode" : 800,
+    "iso" : "UG",
+    "iso3" : "UGA",
+    "printable_name" : "Uganda"
+  },
+  {
+    "name" : "URUGUAY",
+    "numcode" : 858,
+    "iso" : "UY",
+    "iso3" : "URY",
+    "printable_name" : "Uruguay"
+  },
+  {
+    "name" : "UZBEKISTÁN",
+    "numcode" : 860,
+    "iso" : "UZ",
+    "iso3" : "UZB",
+    "printable_name" : "Uzbekistán"
+  },
+  {
+    "name" : "VANUATU",
+    "numcode" : 548,
+    "iso" : "VU",
+    "iso3" : "VUT",
+    "printable_name" : "Vanuatu"
+  },
+  {
+    "name" : "VENEZUELA",
+    "numcode" : 862,
+    "iso" : "VE",
+    "iso3" : "VEN",
+    "printable_name" : "Venezuela"
+  },
+  {
+    "name" : "VIETNAM",
+    "numcode" : 704,
+    "iso" : "VN",
+    "iso3" : "VNM",
+    "printable_name" : "Vietnam"
+  },
+  {
+    "name" : "WALLIS Y FUTUNA",
+    "numcode" : 876,
+    "iso" : "WF",
+    "iso3" : "WLF",
+    "printable_name" : "Wallis y Futuna"
+  },
+  {
+    "name" : "YEMEN",
+    "numcode" : 887,
+    "iso" : "YE",
+    "iso3" : "YEM",
+    "printable_name" : "Yemen"
+  },
+  {
+    "name" : "YIBUTI",
+    "numcode" : 262,
+    "iso" : "DJ",
+    "iso3" : "DJI",
+    "printable_name" : "Yibuti"
+  },
+  {
+    "name" : "ZAMBIA",
+    "numcode" : 894,
+    "iso" : "ZM",
+    "iso3" : "ZMB",
+    "printable_name" : "Zambia"
+  },
+  {
+    "name" : "ZIMBABUE",
+    "numcode" : 716,
+    "iso" : "ZW",
+    "iso3" : "ZWE",
+    "printable_name" : "Zimbabue"
+  }
+]
